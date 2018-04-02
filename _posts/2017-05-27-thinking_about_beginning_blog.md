@@ -26,4 +26,4 @@ tag: 杂记
 
 <br>
 
-转载请注明：[朱霄重的博客](http://namehard.cn) » [点击阅读原文](http://namehard.cn/2017/05/thinking_about_beginning blog/)
+转载请注明：[朱霄重的博客](http://blog.namehard.cn) » [点击阅读原文](http://blog.namehard.cn/2017/05/thinking_about_beginning blog/)
